@@ -18,20 +18,28 @@ namespace ConsoleApp1
             this.height = height;
         }
 
-        public virtual int Area()
+        public virtual int Area()  
         {
             return 0;
         }
-        public virtual int Omkrets()
+        public virtual int Omkrets()     
         {
             return 0;
         }
+
+        
+      
+       
+
+       
+
+
 
 
     }
 
 
-
-
+       
+     
 }
 
